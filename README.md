@@ -27,4 +27,4 @@ Projects include:
       
          endless waves of zombies that they are trying to kill them.
          
-   ** - This game is currently a prototype and is still be developed, as this is a school project.**
+   **- This game is currently a prototype and is still be developed, as this is a school project.**
