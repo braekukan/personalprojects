@@ -28,3 +28,17 @@ Projects include:
          endless waves of zombies that they are trying to kill them.
          
       - This game is currently a prototype and is still being developed, as this is a school project.
+
+**Tic-Tac Toe**
+
+      - This program was coded in Python(version 3+)
+     
+      - utililizes the random module. 
+ 
+      - includes lists, loops, conditionals, try/ except, various data types, etc.
+      
+      - The user runs the program in tyhr Python IDE, and they are prompted to enter the position.
+      
+      - The user will play against the computer.
+
+      - implements win, lose, and tied functions
