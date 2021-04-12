@@ -1,7 +1,7 @@
 # personalprojects
 Hello,
 
-This is a repository of all my perosnal projects so far throughout my college career at Drexel University. 
+This is a repository of all my personal projects so far throughout my college career at Drexel University. 
 
 Projects include:
 
